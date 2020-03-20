@@ -1,0 +1,17 @@
+C:\Users\maria\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\maria\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\maria\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\maria\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\maria\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\maria\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\maria\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\bin\Debug\Calculator.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\bin\Debug\Calculator.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Calculator\obj\Debug\Calculator.pdb

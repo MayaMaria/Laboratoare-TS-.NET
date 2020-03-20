@@ -1,0 +1,10 @@
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe.config
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.exe
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\ModelDesignFirst_L1.pdb
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\EntityFramework.dll
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\EntityFramework.xml
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.csproj.CopyComplete
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.exe
+C:\Users\maria\source\repos\Calculator\ModelDesignFirst_L1\obj\Debug\ModelDesignFirst_L1.pdb
