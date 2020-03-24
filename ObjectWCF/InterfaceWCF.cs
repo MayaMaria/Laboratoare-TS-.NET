@@ -1,8 +1,10 @@
 ﻿using PostComment;
 using System.Collections.Generic;
+using System.ServiceModel;
 
 namespace ObjectWCF
 {
+    [ServiceContract]
     interface InterfacePost
     {
         [OperationContract]
