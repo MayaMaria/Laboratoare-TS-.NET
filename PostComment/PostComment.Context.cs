@@ -28,11 +28,6 @@ namespace PostComment
             throw new UnintentionalCodeFirstException();
         }
 
-        internal object Entry<T>(Post posts)
-        {
-            throw new NotImplementedException();
-        }
-
         public virtual DbSet<Post> Posts { get; set; }
         public virtual DbSet<Comment> Comments { get; set; }
     }
