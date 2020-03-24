@@ -1,0 +1,11 @@
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.deps.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.runtimeconfig.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\bin\Debug\netcoreapp3.1\Event_L1.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\obj\Debug\netcoreapp3.1\Event_L1.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\obj\Debug\netcoreapp3.1\Event_L1.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\obj\Debug\netcoreapp3.1\Event_L1.AssemblyInfo.cs
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\obj\Debug\netcoreapp3.1\Event_L1.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Event_L1\obj\Debug\netcoreapp3.1\Event_L1.pdb

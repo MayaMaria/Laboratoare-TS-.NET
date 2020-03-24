@@ -8,3 +8,13 @@ C:\Users\maria\source\repos\Calculator\EF-codefirst\obj\Debug\netcoreapp3.1\EF-c
 C:\Users\maria\source\repos\Calculator\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.AssemblyInfo.cs
 C:\Users\maria\source\repos\Calculator\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.dll
 C:\Users\maria\source\repos\Calculator\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\bin\Debug\netcoreapp3.1\EF-codefirst.deps.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\bin\Debug\netcoreapp3.1\EF-codefirst.runtimeconfig.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\bin\Debug\netcoreapp3.1\EF-codefirst.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\bin\Debug\netcoreapp3.1\EF-codefirst.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\bin\Debug\netcoreapp3.1\EF-codefirst.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.AssemblyInfo.cs
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF-codefirst\obj\Debug\netcoreapp3.1\EF-codefirst.pdb

@@ -1,0 +1,1 @@
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache

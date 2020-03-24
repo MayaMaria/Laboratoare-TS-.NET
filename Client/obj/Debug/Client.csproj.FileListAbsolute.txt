@@ -1,0 +1,4 @@
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Client\obj\Debug\Client.Form1.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Client\obj\Debug\Client.csproj.GenerateResource.cache
