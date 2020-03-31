@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PhotoModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="PhotoModelStoreContainer">
+    <EntitySet Name="People" EntityType="PhotoModel.Store.People" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Items" EntityType="PhotoModel.Store.Items" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="PersonItem" Association="PhotoModel.Store.PersonItem">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Item" EntitySet="Items" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="People">
+    <Key>
+      <PropertyRef Name="Id_person" />
+    </Key>
+    <Property Name="Id_person" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Gender" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Id_item" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Items">
+    <Key>
+      <PropertyRef Name="Id_item" />
+    </Key>
+    <Property Name="Id_item" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Type" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Path" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Event" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Landscape" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Country" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Date_created" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="PersonItem">
+    <End Role="Person" Type="PhotoModel.Store.People" Multiplicity="*" />
+    <End Role="Item" Type="PhotoModel.Store.Items" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Item">
+        <PropertyRef Name="Id_item" />
+      </Principal>
+      <Dependent Role="Person">
+        <PropertyRef Name="Id_item" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

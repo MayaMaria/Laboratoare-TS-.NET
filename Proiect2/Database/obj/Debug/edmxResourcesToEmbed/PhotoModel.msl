@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PhotoModelStoreContainer" CdmEntityContainer="PhotoModelContainer">
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="IsTypeOf(PhotoModel.Person)">
+        <MappingFragment StoreEntitySet="People">
+          <ScalarProperty Name="Id_person" ColumnName="Id_person" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Id_item" ColumnName="Id_item" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="IsTypeOf(PhotoModel.Item)">
+        <MappingFragment StoreEntitySet="Items">
+          <ScalarProperty Name="Id_item" ColumnName="Id_item" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Path" ColumnName="Path" />
+          <ScalarProperty Name="Event" ColumnName="Event" />
+          <ScalarProperty Name="Landscape" ColumnName="Landscape" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Date_created" ColumnName="Date_created" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
