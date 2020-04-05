@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-using System.Runtime.Serialization;
-
 namespace Database
 {
+    using System.Runtime.Serialization;
+
     [DataContract(IsReference = true)]
     public partial class Person
     {
@@ -22,7 +22,8 @@ namespace Database
         public string Gender { get; set; }
         [DataMember]
         public int Id_item { get; set; }
+
         [DataMember]
-        public virtual Item Item { get; set; }
+        public Item Item { get; set; }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\bin\Debug\ClientWCF.exe.config
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\bin\Debug\ClientWCF.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\bin\Debug\ClientWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.Properties.Resources.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.Form1.resources
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\Proiect2\ClientWCF\obj\Debug\ClientWCF.csproj.CopyComplete

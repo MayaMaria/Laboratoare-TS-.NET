@@ -11,3 +11,4 @@ C:\Users\maria\Desktop\Laboratoare-TS-.NET\ObjectWCF\bin\Debug\EntityFramework.x
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\ObjectWCF\obj\Debug\ObjectWCF.dll
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\ObjectWCF\obj\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache

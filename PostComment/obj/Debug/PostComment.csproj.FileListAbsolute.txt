@@ -9,3 +9,4 @@ C:\Users\maria\Desktop\Laboratoare-TS-.NET\PostComment\bin\Debug\EntityFramework
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\PostComment\obj\Debug\PostComment.csproj.CopyComplete
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\PostComment\obj\Debug\PostComment.dll
 C:\Users\maria\Desktop\Laboratoare-TS-.NET\PostComment\obj\Debug\PostComment.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\PostComment\obj\Debug\PostComment.csproj.CoreCompileInputs.cache

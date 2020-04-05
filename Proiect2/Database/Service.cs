@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace Database
 {
-
     public partial class Item
     {
-
         public bool AddItem()
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
@@ -62,7 +60,6 @@ namespace Database
                 return items;
             }
         }
-
 
         public string UpdateItem(int id, Item newItem)
         {

@@ -10,6 +10,7 @@ namespace ObjectWCF
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
