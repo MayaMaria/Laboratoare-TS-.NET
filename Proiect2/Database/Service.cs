@@ -9,13 +9,16 @@ namespace Database
 {
     public partial class Item
     {
-        public bool AddItem()
+        public int AddItem()
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
             {
-                bool bResult = false; if (this.Id_item == 0)
-                { var it = context.Entry<Item>(this).State = EntityState.Added; 
-                    context.SaveChanges(); bResult = true; }
+                int bResult = 0;
+                if (this.Id_item == 0)
+                {
+                    var it = context.Entry<Item>(this).State = EntityState.Added;
+                    context.SaveChanges(); bResult = this.Id_item;
+                }
                 return bResult;
             }
 
@@ -45,7 +48,7 @@ namespace Database
             }
         }
 
-        public IQueryable<Item> GetAllItems()
+        public List<Item> GetAllItems()
         {
             Person person = new Person();
             using (PhotoModelContainer context = new PhotoModelContainer())
@@ -57,7 +60,7 @@ namespace Database
                     item.People = person.GetPersonsForItem(item.Id_item).ToList();
 
                 }
-                return items;
+                return items.ToList();
             }
         }
 
@@ -83,7 +86,7 @@ namespace Database
             }
         }
 
-        public IQueryable<Item> FilterItems(FilterModel filter)
+        public List<Item> FilterItems(FilterModel filter)
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
             {
@@ -102,6 +105,7 @@ namespace Database
                     items = items.Where(item => item.Date_created.Year == filter.Year);
 
                 List<Person> personsList = new List<Person>();
+                
                 foreach (var person in filter.Persons)
                 {
                     var resultPerson = persons.Where(p => p.Name == person);
@@ -124,38 +128,33 @@ namespace Database
 
                 if (final_items.Count != 0)
                     items = final_items.AsQueryable();
-                return items;
+                return items.ToList();
             }
         }
     }
 
     public partial class Person
     {
-        public bool AddPerson()
+        public int AddPerson()
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
             {
-                bool bResult = false;
-                if (this == null || this.Id_person == 0)
-                    return bResult;
+                int bResult = 0;
                 if (this.Id_person == 0)
                 {
-                    context.Entry<Person>(this).State = EntityState.Added;
-                    Item item = context.Items.Find(this.Id_item);
-                    context.Entry<Item>(item).State = EntityState.Unchanged;
-                    context.SaveChanges();
-                    bResult = true;
+                    var it = context.Entry<Person>(this).State = EntityState.Added;
+                    context.SaveChanges(); bResult = this.Id_person;
                 }
                 return bResult;
             }
 
         }
 
-        public IQueryable<Person> GetPersonsForItem(int id)
+        public List<Person> GetPersonsForItem(int id)
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
             {
-                return context.People.Where(person => person.Id_item == id);
+                return context.People.Where(person => person.Id_item == id).ToList();
             }
         }
 
@@ -171,15 +170,13 @@ namespace Database
         }
 
 
-        public IQueryable<string> GetNamePersons()
+        public List<string> GetNamePersons()
         {
             using (PhotoModelContainer context = new PhotoModelContainer())
             {
-                return context.People.Select(person => person.Name).Distinct();
+                return context.People.Select(person => person.Name).Distinct().ToList();
             }
         }
-
-
 
         public void RemovePersons(int id)
         {
@@ -188,6 +185,7 @@ namespace Database
                 var persons = GetPersonsForItem(id);
                 foreach (var person in persons)
                 {
+                    context.People.Attach(person);
                     context.People.Remove(person);
                 }
                 context.SaveChanges();

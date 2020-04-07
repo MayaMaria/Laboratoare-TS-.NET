@@ -1,26 +1,23 @@
 ﻿using Database;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ObjectWCF
 {
     public class ItemPerson : IItemPerson
     {
-        public bool AddItem(Item item) => item.AddItem();
+        public int AddItem(Item item) => item.AddItem();
 
-        public bool AddPerson(Person person) => person.AddPerson();
+        public int AddPerson(Person person) => person.AddPerson();
 
 
-        public IQueryable<Item> FilterItems(FilterModel filter)
+        public List<Item> FilterItems(FilterModel filter)
         {
             Item item = new Item();
-            return  item.FilterItems(filter);
+            return  item.FilterItems(filter).ToList();
         }
 
-        public IQueryable<Item> GetAllItems()
+        public List<Item> GetAllItems()
         {
             Item item = new Item();
             return item.GetAllItems();
@@ -33,13 +30,13 @@ namespace ObjectWCF
             return item;
         }
 
-        public IQueryable<string> GetNamePersons()
+        public List<string> GetNamePersons()
         {
             Person person = new Person();
             return person.GetNamePersons();
         }
 
-        public IQueryable<Person> GetPersonsForItem(int id)
+        public List<Person> GetPersonsForItem(int id)
         {
             Person person = new Person();
             return person.GetPersonsForItem(id);

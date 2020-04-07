@@ -1,4 +1,5 @@
 ﻿using Database;
+using System.Collections.Generic;
 using System.Linq;
 using System.ServiceModel;
 
@@ -9,7 +10,7 @@ namespace ObjectWCF
     interface InterfaceItem
     {
         [OperationContract]
-        bool AddItem(Item item);
+        int AddItem(Item item);
 
         [OperationContract]
         Item GetById(int id);
@@ -18,13 +19,13 @@ namespace ObjectWCF
         void RemoveItem(int id);
 
         [OperationContract]
-        IQueryable<Item> GetAllItems();
+        List<Item> GetAllItems();
 
         [OperationContract]
         string UpdateItem(int id, Item newItem);
 
         [OperationContract]
-        IQueryable<Item> FilterItems(FilterModel filter);
+        List<Item> FilterItems(FilterModel filter);
 
     }
 
@@ -32,13 +33,13 @@ namespace ObjectWCF
     interface InterfacePerson
     {
         [OperationContract]
-        bool AddPerson(Person person);
+        int AddPerson(Person person);
 
         [OperationContract]
-        IQueryable<Person> GetPersonsForItem(int id);
+        List<Person> GetPersonsForItem(int id);
 
         [OperationContract]
-        IQueryable<string> GetNamePersons();
+        List<string> GetNamePersons();
 
         [OperationContract]
         int VerifyIfPersonExist(int id, string name);

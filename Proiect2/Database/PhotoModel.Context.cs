@@ -18,8 +18,6 @@ namespace Database
         public PhotoModelContainer()
             : base("name=PhotoModelContainer")
         {
-            Configuration.LazyLoadingEnabled = false;
-            Configuration.ProxyCreationEnabled = false;
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
