@@ -1,0 +1,43 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+service PostComment{
+	rpc GetAllPosts(Empty) returns (PostsList);
+	rpc AddPost(PostModel) returns (ResultClient);
+	rpc UpdatePost(PostModel) returns (PostModel);
+	rpc DeletePost(InputClient) returns (ResultClient);
+	rpc GetByIdPost(InputClient) returns (PostModel);
+	rpc AddComment(CommentModel) returns (ResultClient);
+	rpc UpdateComment(CommentModel) returns (CommentModel);
+	rpc GetCommentById(InputClient) returns (CommentModel); 
+}
+
+message Empty {}
+
+message InputClient {
+	int32 id = 1;
+}
+
+message ResultClient {
+	string result = 1;
+}
+
+message PostsList {
+    repeated PostModel items = 1;
+}
+
+message CommentModel {
+	int32 CommentId = 1;
+	string Text = 2;
+	int32 PostPostId  = 3;
+}
+
+message PostModel {
+	int32 PostId = 1;
+	string Description = 2;
+	string Domain = 3;
+	string Date = 4;
+}
+
+

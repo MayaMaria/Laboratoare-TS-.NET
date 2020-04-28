@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1/Postcomment.cs \
+obj\Debug\netcoreapp3.1/PostcommentGrpc.cs: Protos/postcomment.proto
