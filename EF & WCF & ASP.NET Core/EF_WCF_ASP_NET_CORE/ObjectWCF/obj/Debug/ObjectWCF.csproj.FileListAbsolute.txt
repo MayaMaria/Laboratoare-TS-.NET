@@ -1,0 +1,24 @@
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\ObjectWCF\obj\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\PostComment.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\PostComment.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\PostComment.dll.config
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\obj\Debug\ObjectWCF.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\obj\Debug\ObjectWCF.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\obj\Debug\ObjectWCF.csproj.CopyComplete
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\obj\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\ObjectWCF\obj\Debug\ObjectWCF.pdb

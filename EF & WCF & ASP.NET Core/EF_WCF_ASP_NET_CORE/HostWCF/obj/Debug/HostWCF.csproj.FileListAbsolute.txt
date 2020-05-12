@@ -1,0 +1,34 @@
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\PostComment.dll
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\obj\Debug\HostWCF.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\maria\Desktop\TSP.NET\Laborator6\HostWCF\obj\Debug\HostWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\HostWCF.exe.config
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\HostWCF.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\HostWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\EntityFramework.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\ObjectWCF.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\PostComment.dll
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\ObjectWCF.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\EntityFramework.xml
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\PostComment.pdb
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\bin\Debug\PostComment.dll.config
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\obj\Debug\HostWCF.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\obj\Debug\HostWCF.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\obj\Debug\HostWCF.csproj.CopyComplete
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\obj\Debug\HostWCF.exe
+C:\Users\maria\Desktop\Laboratoare-TS-.NET\EF & WCF & ASP.NET Core\EF_WCF_ASP_NET_CORE\HostWCF\obj\Debug\HostWCF.pdb
